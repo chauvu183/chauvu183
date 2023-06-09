@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chauvu183
-- 👀 I’m interested in Design and Technology  
-- 🌱 I’m currently learning Computer Science  
+- 👀 I’m interested in Design and Technology   
 - 📫 How to reach me chau.vu@haw-hamburg.de
 - My Portfolio : https://kiwillvu.wixsite.com/chauvu-portfolio
 
